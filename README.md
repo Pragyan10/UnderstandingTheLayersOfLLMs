@@ -2,8 +2,9 @@
 
 
 Results 
-| Column 1 | Column 2 | Column 3 | Column 4 |
+| Layer | BLEU | ROGUE-L | BERTScore |
 |----------|----------|----------| ----------|
-| Data 1   | Data 2   | Data 3   | Data 3   |
-| Data 4   | Data 5   | Data 6   | Data 3   |
-| Data 4   | Data 5   | Data 6   | Data 3   | 
+| 8   | 0.00   | 0.01   | 0.74   |
+| 16   | 0.00   | 0.01   | 0.75   |
+| 24   | 0.00   | 0.06  | 0.78   | 
+| 32   | 0.0076   | 0.11  | 0.81   |
