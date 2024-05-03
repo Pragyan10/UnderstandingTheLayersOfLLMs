@@ -1,5 +1,10 @@
 # UnderstandingTheLayersOfLLMs
 
+## How to run the notebook:
+- First make sure to have gpu access
+- Open the notebook
+- Run all the cells
+
 ## Section 1: 
 ### Visual Representation of the logits over the layers
 
