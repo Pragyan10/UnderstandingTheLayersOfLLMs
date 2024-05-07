@@ -7,6 +7,8 @@
 
 ## Section 1: 
 ### Visual Representation of the logits over the layers
+- See graph.png file
+- We notice that after layer 8 the generation is very bad and the results is considered to be zero accuracy. Similarly for layers 16 and 24 too not much considerable changes are to be seen in the accuracy. After layer 32 we see the model being able to handle the generation well so that the accuarcy reaches to about 80% for the predictions on a test set. This graph also shows that the learning is changing substantially even after the upper layers i.e 24+ layers and with only 1/2 layers at towards the 32nd layer the results change well. 
 
 ## Section 2:
 ### Consistency check method between these layers for factuality analysis
